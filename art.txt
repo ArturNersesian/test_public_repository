@@ -1,2 +1,3 @@
 SDET
 new info
+новая инфо
